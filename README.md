@@ -1,2 +1,2 @@
 # Cellphone-Market-Analysis-
-Try to find out expected output to understand the problems in cellphone market
+Data visualization with the help of Power Bi and SQL to resolve problems in Cellphone Market
